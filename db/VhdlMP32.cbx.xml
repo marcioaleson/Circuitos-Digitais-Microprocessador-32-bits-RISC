@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="VhdlMP32">
+		<CBX_INST_ENTRY INSTANCE_NAME="|MP32|altsyncram:memory_datas" CBX_FILE_NAME="altsyncram_ofk3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MP32|altsyncram:memory_instruction" CBX_FILE_NAME="altsyncram_a0k3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

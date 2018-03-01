@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Oct 05 18:06:56 2012
+Quartus II Version : 9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+Revision Name : MP32
+Top-level Entity Name : MP32
+Family : Cyclone III
+Device : EP3C40F780I7
+Timing Models : Final
+Total logic elements : 2,456 / 39,600 ( 6 % )
+    Total combinational functions : 2,231 / 39,600 ( 6 % )
+    Dedicated logic registers : 1,073 / 39,600 ( 3 % )
+Total registers : 1073
+Total pins : 98 / 536 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 65,536 / 1,161,216 ( 6 % )
+Embedded Multiplier 9-bit elements : 0 / 252 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

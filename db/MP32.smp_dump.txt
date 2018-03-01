@@ -1,0 +1,10 @@
+
+State Machine - |MP32|state
+Name state.execute_lui state.execute_swr state.execute_jump state.execute_add state.decode state.fetch state.reset_pc 
+state.reset_pc 0 0 0 0 0 0 0 
+state.fetch 0 0 0 0 0 1 1 
+state.decode 0 0 0 0 1 0 1 
+state.execute_add 0 0 0 1 0 0 1 
+state.execute_jump 0 0 1 0 0 0 1 
+state.execute_swr 0 1 0 0 0 0 1 
+state.execute_lui 1 0 0 0 0 0 1 
